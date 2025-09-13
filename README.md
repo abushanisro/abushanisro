@@ -39,5 +39,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lifeofabushan)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abushan.isro@gmail.com)  
 
----
-![Visitor Count](https://visitcount.itsvg.in/api?id=abushanisro&icon=4&color=3)
