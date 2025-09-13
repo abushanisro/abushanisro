@@ -1,6 +1,6 @@
 # 👋 Mohammed Abushan  
 
-🚀 Techpreneur | AI & Space Enthusiast | Venture Builder  
+ Techpreneur | AI & Web3 Enthusiast | Venture Builder  
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 | **Languages & AI** | **Frontend** | **Backend & Infra** |
 |---------------------|--------------|----------------------|
@@ -20,10 +20,10 @@
 
 ---
 
-## 🏆 Highlights  
+## Highlights  
 - Top 10 Finalist / 19,000+ → *Tinder for Jobs* (GenZ career matchmaking)  
-- 🥇 1st place → 48hr Hackathon (UN SDG 7 & 9 sustainable startup)  
-- 📈 Built personal brand → **55K+ LinkedIn impressions in 30 days**  
+- 1st place → 48hr Hackathon (UN SDG 7 & 9 sustainable startup)  
+- Built personal brand → **55K+ LinkedIn impressions in 30 days**  
 
 ---
 
