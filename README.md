@@ -5,9 +5,9 @@
 ---
 
 ## ⚡ Snapshot  
-- 👨‍💻 Co-Founder **GroSave** → FoodTech MVP, secured **₹10L funding**, won *Youth Scientist India 🏆*  
-- 🛰️ **PR & Marketing Intern @ SpaceKidz India** → ShakthiSAT campaign (12k+ girls, 108 countries)  
-- 🤖 **AI & Automation Intern @ Giottus Crypto** → BERT-based clustering (90% accuracy) & AI trading dashboard  
+- Co-Founder **GroSave** → FoodTech MVP, secured **₹10L funding**, won *Youth Scientist India 🏆*  
+- **PR & Marketing Intern @ SpaceKidz India** → ShakthiSAT campaign (12k+ girls, 108 countries)  
+- **AI & Automation Intern @ Giottus Crypto** → BERT-based clustering (90% accuracy) & AI trading dashboard  
 - 🔭 Building **Cursious AI** → Agents automating onboarding & support for EdTech  
 
 ---
