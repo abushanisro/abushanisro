@@ -4,10 +4,7 @@ Techpreneur | AI & Web3 Enthusiast | Venture Builder
 ---
 
 ## Snapshot  
--  Co-Founder **GroSave** → FoodTech MVP, secured **₹10L**, won *Youth Scientist India 🏆*  
-- **AI & Automation Intern @ Giottus Crypto** → BERT-based clustering (90% accuracy) & AI trading dashboard  
-- 🔭 Building **Cursious AI** → Agents automating onboarding & support for EdTech  
-
+AI Mithran Founding Team EMUSKI | PM Intern Eximpe | AI Engineer at Giottus | Open Source Contributor | Young Scientist India 2022 | Bengaluru,India
 ---
 
 ## Tech Stack  
